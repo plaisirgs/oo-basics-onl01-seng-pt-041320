@@ -8,7 +8,9 @@ class Shoe
     @condition = condition 
   end
 
-
+  def cobble 
+  
+  end
 
 
 
